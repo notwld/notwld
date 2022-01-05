@@ -30,3 +30,5 @@ I want to prove myself useful and to be a better version of myself!*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blurryface92&theme=dark">
