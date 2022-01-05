@@ -9,10 +9,12 @@ I want to prove myself useful and to be a better version of myself!*
   <img src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif" alt="animated" />
 </p>
 
-# :envelope: *Connect with me*
+# 📱  *Connect with me*
 
 <a href="https://www.linkedin.com/in/muhammad-waleed-a60163227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/__blurryface__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/__blurryface__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="mailto:mwfarrukh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"></a>
+
 
 
 
