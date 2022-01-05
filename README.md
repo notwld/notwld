@@ -23,8 +23,8 @@ I want to prove myself useful and to be a better version of myself!*
 
 
 # *Github Stats*
-<div style="display:flex; flex-direction:row;">
-<img src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark"> 
+<div style="display:flex; flex-direction:column;">
+<img src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blurryface92&theme=dark"> 
 </div>
