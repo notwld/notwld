@@ -21,6 +21,7 @@ I want to prove myself useful and to be a better version of myself!*
 
 # *Github Stats*
 <div style="display:flex; flex-direction:row;">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blurryface92&show_icons=true&theme=dark)
 
 
