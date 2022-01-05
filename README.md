@@ -22,7 +22,7 @@ I want to prove myself useful and to be a better version of myself!*
  
 
 
-# *Github Stats*
+# :infinity: *Github Stats*
 <div style="display:flex; flex-direction:column; justify-content:center; align-items:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark"><br>
