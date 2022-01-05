@@ -11,7 +11,11 @@ I want to prove myself useful and to be a better version of myself!*
 
 # *Connect with me*
 
-<a href="https://www.linkedin.com/in/muhammad-waleed-a60163227/" target="_blank"><img src="https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
+<a href="https://www.linkedin.com/in/muhammad-waleed-a60163227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/__blurryface__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+
+
 
 # *Tools i use*
 
