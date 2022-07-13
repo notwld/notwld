@@ -38,12 +38,12 @@ A Software Engineering student from Pakistan. I aim to deepen my understanding i
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwfarrukh/)
 
 
-## 📊 Github Stats
+## 📊 <p align="center">Github Stats</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=blurryface92&theme=dark">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blurryface92&theme=vue">
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark"></p> </br>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=blurryface92&theme=dark"></p> </br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark"></p>  </br>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blurryface92&theme=dark"></p>
 
 
 #
