@@ -6,7 +6,7 @@
 
 # <p align="center">👋 Welcome! </p>
 
-<p align="center"> *Hi! My name is Muhammad Waleed* </p>
+<p align="center"> Hi! My name is Muhammad Waleed</p>
 
 
 # <p align="center">🚀 About Me </p>
