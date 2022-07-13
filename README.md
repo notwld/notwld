@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="<div class="tenor-gif-embed" data-postid="11570094" data-share-method="host" data-aspect-ratio="1.42857" data-width="100%"><a href="https://tenor.com/view/donut-code-computer-gif-11570094">Donut Code GIF</a>from <a href="https://tenor.com/search/donut-gifs">Donut GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
+  <img width="460" height="300" src="https://tenor.com/WH4A.gif">
 </p>
 
 ## 👋 Welcome! 
