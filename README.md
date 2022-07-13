@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="<div class="tenor-gif-embed" data-postid="11570094" data-share-method="host" data-aspect-ratio="1.42857" data-width="100%"><a href="https://tenor.com/view/donut-code-computer-gif-11570094">Donut Code GIF</a>from <a href="https://tenor.com/search/donut-gifs">Donut GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 </p>
 
 ## 👋 Welcome! 
@@ -42,7 +42,6 @@ A Software Engineering student from Pakistan. I aim to deepen my understanding i
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=blurryface92&theme=dark">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=blurryface92&theme=dark">
-<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blurryface92&theme=dark">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blurryface92&theme=vue">
 
