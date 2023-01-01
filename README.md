@@ -18,9 +18,14 @@
 [![@blurryface's Holopin board](https://holopin.me/blurryface)](https://holopin.io/@blurryface)
 
 #  <p align="center">📊 Github Stats</p>
-| profile          | streaks     | | stats           |
-| ---------------- | ----------- | | --------------- |
-| <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notwld&theme=monokai"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=dark"> |
+## Color Reference
+
+| profile           | stats                                                               | streaks |
+| ----------------- | ------------------------------------------------------------------ | --------- |
+|  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notwld&theme=monokai"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=dark"> |
+
+
+
 
 
 @: <a href='mailto:mwfarrukh@gmail.com'>mwfarrukh@gmail.com</a>
