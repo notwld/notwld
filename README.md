@@ -18,11 +18,10 @@
 [![@blurryface's Holopin board](https://holopin.me/blurryface)](https://holopin.io/@blurryface)
 
 #  <p align="center">📊 Github Stats</p>
-## Color Reference
 
-| profile           | stats                                                               | streaks |
+| profile           | streaks                                                               | stats |
 | ----------------- | ------------------------------------------------------------------ | --------- |
-|  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notwld&theme=monokai"> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=dark"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=dark"> |
+|  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notwld&theme=monokai"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=dark"> |
 
 
 
