@@ -14,6 +14,7 @@
 # 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
-![Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=tokyonight)
+![Most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notwld&theme=tokyonight) 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=tokyonight)
 
 ![My Badges](https://github-profile-trophy.vercel.app/?username=notwld&theme=tokyonight)
