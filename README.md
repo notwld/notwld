@@ -9,6 +9,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
-![My Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotwld1212%2Fhit-counter)
 :heart: from
-![Muhammad Waleed](https://muhammadwaleed.me)
+[[!Muhammad Waleed][]](https://muhammadwaleed.me)
