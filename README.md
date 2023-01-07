@@ -14,4 +14,4 @@
 # 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
-![My Badges](https://github-profile-trophy.vercel.app/?username=notwld)
+![My Badges](https://github-profile-trophy.vercel.app/?username=notwld&theme=tokyonight)
