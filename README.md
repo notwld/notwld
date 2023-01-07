@@ -7,17 +7,9 @@
 <p align="left">Hi, my name is Muhammad Waleed and I am a software engineering student at Usman Institute of Technology in my 5th semester of my 3rd year. I am proficient in various programming languages including Python, React, JS, Node, Express, SQL, Prima, Dotnet, MongoDB, Flask, HTML, CSS, and have experience using platforms such as Heroku and Netlify. I am also skilled in using Git for version control. I am excited to continue learning and growing as a developer and am eager to contribute to projects on GitHub and I aim to deepen my understanding in various areas of technology and product development.
 </p><br><br>
 
-![My summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notwld&theme=tokyonight)
-
 <br>
 
 # 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=notwld&theme=tokyonight) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=tokyonight)
-
-![My Badges](https://github-profile-trophy.vercel.app/?username=notwld&theme=tokyonight)
 
 ![My Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotwld1212%2Fhit-counter)
