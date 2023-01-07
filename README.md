@@ -1,3 +1,4 @@
+[![@blurryface's Holopin board](https://holopin.me/blurryface)](https://holopin.io/@blurryface)
 
 
 
@@ -9,7 +10,6 @@
 # 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark)](https://skillicons.dev)
 
-[![@blurryface's Holopin board](https://holopin.me/blurryface)](https://holopin.io/@blurryface)
 
 #  <p align="center">📊 Github Stats</p>
 
