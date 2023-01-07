@@ -11,4 +11,4 @@
 
 ![My Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotwld1212%2Fhit-counter)
 
-![[Muhammad Waleed][My website]](https://muhammadwaleed.me)
+![[Muhammad Waleed]](https://muhammadwaleed.me)
