@@ -18,3 +18,5 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=notwld&theme=tokyonight)
 
 ![My Badges](https://github-profile-trophy.vercel.app/?username=notwld&theme=tokyonight)
+
+![My Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotwld1212%2Fhit-counter)
