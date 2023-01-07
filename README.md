@@ -14,4 +14,4 @@
 :heart: from
 [Muhammad Waleed](https://muhammadwaleed.me)
 
-<p align="right">:page_facing_up: Read my [Blogs](https://medium.com/@mwfarrukh) </p>
+<p align="right">:page_facing_up: Read my </p> [Blogs](https://medium.com/@mwfarrukh)
