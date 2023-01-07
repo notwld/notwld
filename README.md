@@ -7,7 +7,7 @@
 </p><br>
 
 # 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,nodejs,express,react,mongo,mongodb,mysql,prisma,netlify,heroku,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark)](https://skillicons.dev)
 
 [![@blurryface's Holopin board](https://holopin.me/blurryface)](https://holopin.io/@blurryface)
 
