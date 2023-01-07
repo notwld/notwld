@@ -7,7 +7,7 @@
 <p align="left">Hi, my name is Muhammad Waleed and I am a software engineering student at Usman Institute of Technology in my 5th semester of my 3rd year. I am proficient in various programming languages including Python, React, JS, Node, Express, SQL, Prima, Dotnet, MongoDB, Flask, HTML, CSS, and have experience using platforms such as Heroku and Netlify. I am also skilled in using Git for version control. I am excited to continue learning and growing as a developer and am eager to contribute to projects on GitHub and I aim to deepen my understanding in various areas of technology and product development.
 </p>
 
-## Technology Stack:
+**Technology Stack:**
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
