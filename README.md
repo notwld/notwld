@@ -11,8 +11,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,js,jquery,nodejs,express,react,mongodb,dotnet,mysql,prisma,netlify,heroku,git,figma,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
-:page_facing_up: Read my
+Read my
  [Blogs](https://medium.com/@mwfarrukh)
 
-:heart: from
+Love from
 [Muhammad Waleed](https://muhammadwaleed.me)
