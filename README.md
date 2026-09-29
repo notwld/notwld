@@ -35,4 +35,3 @@ i,   ,        si..2;      i ,3;
 r.r.  .r   r..r                sri:
 ```
 
-just tryna be a dev :)
