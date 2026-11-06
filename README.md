@@ -1,5 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="notwld's github profile" src="dark_mode.svg">
-</picture>
+just tryna be a dev :)
